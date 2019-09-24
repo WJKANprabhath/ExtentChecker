@@ -16,8 +16,8 @@ email=npjasinghe@gmail.com
 
 about=This tool support you to compare the extent of TL Lots and computed extent of your plan. If there any extent error, the report will show it against the lot number.
 
-tracker=http://bugs
-repository=http://repo
+tracker=https://github.com/WJKANprabhath/ExtentChecker/issues
+repository=https://github.com/WJKANprabhath/ExtentChecker
 # End of mandatory metadata
 
 # Recommended items:
@@ -28,7 +28,7 @@ repository=http://repo
 # Tags are comma separated with spaces allowed
 tags=python
 
-homepage=http://homepage
+homepage=https://github.com/WJKANprabhath/ExtentChecker/wiki
 category=Plugins
 icon=icon.png
 # experimental flag
